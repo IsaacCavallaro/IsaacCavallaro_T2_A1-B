@@ -1,6 +1,6 @@
 # Identify and explain the workings of TWO sorting algorithms and discuss and compare their performance/efficiency (i.e. Big O) (300-500)
 
-### Link to repo containing code can be found here:
+### Link to repo containing code can be found [here:](https://github.com/IsaacCavallaro/IsaacCavallaro_T2_A1-B)
 
 ## Big O and sorting overview
 
@@ -135,7 +135,7 @@
 
 ![Alt](bubble_sort2.png)
 
-A link to the code can be found here:
+A link to the code can be found [here:](https://github.com/IsaacCavallaro/IsaacCavallaro_T2_A1-B/blob/main/bubble_sort.rb)
 
 
 ## Bubble sort Performance/Efficiency 
@@ -282,8 +282,9 @@ For animations of sorting algorithms click [here:](https://www.toptal.com/develo
 
 
 ## Linear Search Ruby Code:
-Link to this code can be found here:
+
 ![Alt](linear_search_string.png)
+Link to this code can be found [here:](https://github.com/IsaacCavallaro/IsaacCavallaro_T2_A1-B/blob/main/linear_search_string.rb)
 
 ## Time Complexity Analysis: Linear Search
  
@@ -335,11 +336,10 @@ Link to this code can be found here:
 
 
 ## Binary Search Ruby Example:
-link to code can be found here:
 
 ![Alt](binarysearchstring.png)
 
-
+link to code can be found [here:](https://github.com/IsaacCavallaro/IsaacCavallaro_T2_A1-B/blob/main/binary_search.two.rb)
 
 **The input:**
 
