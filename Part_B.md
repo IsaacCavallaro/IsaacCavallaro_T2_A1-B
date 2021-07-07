@@ -1,4 +1,4 @@
-# Identify and explain the workings of TWO sorting algorithms and discuss and compare their performance/efficiency (i.e. Big O) (300-500)
+# Identify and explain the workings of TWO sorting algorithms and discuss and compare their performance/efficiency 
 
 ### Link to repo containing code can be found [here:](https://github.com/IsaacCavallaro/IsaacCavallaro_T2_A1-B)
 
@@ -263,9 +263,7 @@ This is why *Bubble sort* does not get used much in real-world computer science.
 For animations of sorting algorithms click [here:](https://www.toptal.com/developers/sorting-algorithms
 )
 
-
-
-# Identify and explain the workings of TWO search algorithms and discuss and compare their performance/efficiency (i.e. Big O) (300-500)
+# Identify and explain the workings of TWO search algorithms and discuss and compare their performance/efficiency 
 
 ### Search algorithms are not limited to searching lists which contain integers; they can search lists containing all kinds of data.
 
