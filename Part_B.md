@@ -34,9 +34,9 @@
 
 - This refers to the storage taken up by an algorithm.
 
-- Therefore space complexity refers deals with the amount of memory taken up on the computer in order to execute the algorithm.
+- Therefore space complexity deals with the amount of memory taken up on the computer in order to execute the algorithm.
 
-- A good algorithm with balance between both measurements; Time and Space complexity.
+- A good algorithm will balance between both measurements; Time and Space complexity.
 
 - For example, an algorithm may be very fast but it is not very useful it the algorithm consumes more memory than available.
 
@@ -558,32 +558,6 @@ link to code can be found [here:](https://github.com/IsaacCavallaro/IsaacCavalla
 - O(n²) Quadratic time complexity
 - O(2^n) Exponential time complexity
 - O(n!) Factorial time complexity
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## References: 
